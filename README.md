@@ -1,4 +1,4 @@
-# django-mpesa wrapper
+# Django-Mpesa Wrapper
 
 > The most complete M-Pesa Daraja 2.0 integration for Django. STK Push, C2B, B2C — batteries included.
 
