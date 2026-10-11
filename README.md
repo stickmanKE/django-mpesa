@@ -1,4 +1,4 @@
-# django-mpesa
+# django-mpesa wrapper
 
 > The most complete M-Pesa Daraja 2.0 integration for Django. STK Push, C2B, B2C — batteries included.
 
@@ -200,14 +200,6 @@ pytest
 - Django Signals for all events
 - Full Django Admin integration
 - Automatic phone number normalization
-
----
-
-## Support & Consulting
-
-Need help integrating M-Pesa into your Django project?
-
-📧 **mark@bunifulab.com** | 🐦 **@stickmanKE**
 
 ---
 
