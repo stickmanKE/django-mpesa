@@ -6,7 +6,7 @@
 [![Django Versions](https://img.shields.io/badge/Django-3.2%20%7C%204.x%20%7C%205.x-green)](https://www.djangoproject.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Built and maintained by [stickmanKE](https://github.com/stickmanKE) • [Hire me for M-Pesa integration →](mailto:mark@bunifulab.com)
+Built and maintained by [stickmanKE](https://github.com/stickmanKE) • [Hire me for M-Pesa integration →](mailto:bunifulab@gmail.com)
 
 ---
 
